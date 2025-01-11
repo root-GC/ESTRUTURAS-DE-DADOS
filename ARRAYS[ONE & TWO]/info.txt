@@ -1,0 +1,14 @@
+
+Array (ou Vetor)
+Definição: Estrutura de dados linear que armazena uma coleção de elementos do mesmo tipo, acessados por um índice. Indexação: Os índices geralmente começam em 0.
+Memória: Os elementos são armazenados em posições contíguas na memória.
+Acesso: O acesso a elementos é rápido, com complexidade 𝑂(1) para leitura/escrita por índice.
+Tamanho: O tamanho é fixo após a criação em linguagens como C/C++ e Java.
+
+
+Matriz (Array Bidimensional ou Multidimensional)
+Definição: Array com duas ou mais dimensões, frequentemente representado por linhas e colunas.
+Uso: Armazena tabelas de dados (ex.: matrizes matemáticas, grades de jogos).
+Indexação: Um elemento é acessado por dois ou mais índices (linha e coluna).
+Memória: Elementos ocupam blocos contíguos de memória, dependendo da linguagem.
+Operações: Incluem somas, transposições e multiplicações de matrizes em contextos matemáticos.
