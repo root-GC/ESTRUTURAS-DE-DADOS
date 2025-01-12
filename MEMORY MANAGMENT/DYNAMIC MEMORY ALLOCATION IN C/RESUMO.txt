@@ -1,0 +1,18 @@
+
+#GERENCIAMENTO DE MEMORIA EM C
+
+//sizeof(type) -- significa (tamanho de...)
+
+malloc()
+	-- int *ptr=(int *)malloc(n*sizeof(int));
+
+calloc()
+	-- int *prt=(int *)calloc(n,sizeof(int));
+
+free()
+	-- free(ptr)
+  	-- free(matrix[i]) //libertar cada instancia alocada
+
+realloc()
+	-- ptr=(int *)realloc(prt,n*sizeof(int))  //colocar o mesmo ponteiro pois eh para acrescenter nele.
+											  //Se nao quiser multiplicar o tamnho, teras que conhecer o tamnho ou se for para um int: sizeof(int);
