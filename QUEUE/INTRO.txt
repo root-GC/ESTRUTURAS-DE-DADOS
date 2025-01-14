@@ -1,0 +1,17 @@
+Explicação das Operações de Fila (Queue) com Arrays
+
+O Que é uma Fila (Queue)?
+Uma fila é uma estrutura de dados que segue o princípio FIFO (First In, First Out).
+O primeiro elemento a entrar na fila será o primeiro a sair, semelhante a uma fila 
+no mundo real (como em um banco).
+
+Operações Básicas em uma Fila
+Push (Inserir na Fila):
+
+Adiciona um novo elemento no final da fila (também chamado de rear).
+O índice rear é incrementado para apontar para a próxima posição disponível.
+
+#############
+A lógica de fila circular é uma base sólida para carrosséis na web. 
+Com melhorias como animações, controles e auto-play, eles oferecem uma navegação 
+intuitiva e envolvente para os usuários.
