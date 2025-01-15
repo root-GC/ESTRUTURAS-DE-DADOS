@@ -1,0 +1,12 @@
+
+Explicação adicional:
+
+Vértices são os pontos ou nós no grafo.
+
+Arestas são as conexões entre esses vértices. Cada aresta é um par de vértices conectados.
+Grafos podem ser direcionados (onde as arestas têm direção) ou não direcionados (onde as arestas 
+não têm direção específica). No exemplo dado, as arestas são não direcionadas, pois não há indicação
+ de direção nas conexões entre os vértices.
+
+Grafos podem ser utilizados para representar redes, como redes sociais, redes de computadores, 
+rotas de transporte, e muitos outros problemas em que é necessário representar relações entre elementos.
