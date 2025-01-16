@@ -77,3 +77,12 @@ Acesso Mais Lento:
 O acesso direto a um item específico é mais demorado e complexo, já que é necessário percorrer a lista desde o início até encontrar o elemento desejado.
 
 */
+
+/*
+#   TIPOS DE LISTA LIGADA
+
+1. Singly linked list
+2. Doubly linked list
+3. Circular linked list
+
+*/
